@@ -2,6 +2,8 @@
 
 > :warning: I am not responsible for anything that happens as a result of you **following** OR ***not following*** the instructions below!
 
+> The upper editor in online view remains white. There are reports of unexplained VS crashes, possibly due to changes made here. See the warning above!
+
 ## Instructions
 
 1. Get the files
