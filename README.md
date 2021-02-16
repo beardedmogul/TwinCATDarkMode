@@ -20,3 +20,7 @@
     1. Click *Browse*
     1. Find and open the ``darkModeColors.vssettings`` file you downloaded and click *Next*
     1. Click *Finish*
+
+
+## Preview
+![preview](preview.png)
